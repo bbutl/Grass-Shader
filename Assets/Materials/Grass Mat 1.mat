@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Grass Mat
+  m_Name: Grass Mat 1
   m_Shader: {fileID: -6465566751694194690, guid: 7d1fd3212a3684345a05a65b5a6c1338,
     type: 3}
   m_Parent: {fileID: 0}
@@ -112,7 +112,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Height_Blend: 1.2
+    - _Height_Blend: 2
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
@@ -142,7 +142,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Far_Colour: {r: 0.11682566, g: 0.735849, b: 0.024296915, a: 0}
     - _Near_Colour: {r: 1, g: 0.63674253, b: 0.023584902, a: 0}
-    - _Near_Far_Range: {r: 10, g: 20, b: 0, a: 0}
+    - _Near_Far_Range: {r: 5, g: 15, b: 0, a: 0}
     - _Shadow_Colour: {r: 0.061200112, g: 0.023718417, b: 0.38679248, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Wind_Noise_Contrast: {r: 0, g: 1, b: 0, a: 0}
